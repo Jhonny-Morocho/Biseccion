@@ -1,0 +1,61 @@
+body{
+	margin: 40px;
+	padding: 40px;
+
+
+
+}
+
+#tabla{
+	margin-top: 40px;
+	color: black;
+	background-color: #c1d2db;
+}
+h1,h2,h3{
+	text-align: center;
+	margin-top:20px;
+	padding-top: 20px;
+	color: green;
+}
+
+h1{
+	color: red;
+}
+
+#guadar{
+	background-color: #c1d2db;
+}
+
+#respuesta{
+	background-color: #c1d2db;
+	margin-top: 40px;
+
+}
+
+.enviar {
+	margin-bottom: 40px;
+	margin-left: 40px;
+}
+
+input{
+	margin-left: 40px;
+}
+
+
+
+
+input[type=text] {
+      width: 800px;
+     
+    }
+    input {
+      padding: 6px;
+    }
+    body, html, input {
+      font-family: sans-serif;
+      font-size: 11pt;
+
+    }
+    form {
+      margin: 20px 0;
+    }
